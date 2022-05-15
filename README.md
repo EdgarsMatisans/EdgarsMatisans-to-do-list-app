@@ -1,6 +1,5 @@
 # EdgarsMatisans to-do-list-app
-
-## This app was developed as a quick exercise on how to use jQuery. It lets you add items to a list and remove them.
+This app was developed as a quick exercise on how to use jQuery. It lets you add items to a list and remove them.
 
 ##Built With
 HTML
